@@ -1,1 +1,1 @@
-python for backend
+python for frontend and backend using django
